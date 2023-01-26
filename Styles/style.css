@@ -29,8 +29,11 @@ nav a{
     text-decoration: none;
     text-align: center;     
     position: static;
-    box-shadow: 3px 3px rgba(0, 0, 0, 0.5);
-    
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.5);       
+}
+.btn a:hover {
+    background-color: rgb(77, 206, 77);
+
 }
 .imgbanner {
     width: 100%;
